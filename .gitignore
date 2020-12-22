@@ -1,3 +1,4 @@
 data/
 results/
 *.pyc
+notebooks/.ipynb_checkpoints
