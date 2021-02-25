@@ -1,0 +1,189 @@
+Order ID,Collection,Specimen,Corrected specimen name,Image type,Imaging type,Filename,ROI ,Notes,Box URL,Filepath,Location,Upload to DCC
+7,HT056P1,S1,,JPG,,IMG_0005.JPG,,,https://wustl.box.com/s/dbmeovn6zn677gpxezpmtkcuz6qu6a1v,,Box,FALSE
+8,HT056P1,S1,,JPG,,IMG_0006.JPG,,,https://wustl.box.com/s/dw4u7ov4u54bl75wy6fiw87o27jfao3d,,Box,FALSE
+9,HT056P1,S1,,JPG,,IMG_0007.JPG,,,https://wustl.box.com/s/qkd7z5e2xrjs2ps41dncy0ddxbzw46g7,,Box,FALSE
+10,HT056P1,S1,,JPG,,IMG_0008.JPG,,,https://wustl.box.com/s/i4zavkm1pl59rx9jvoufwr4gc4e65ykm,,Box,FALSE
+6,HT056P1,S1,,MOV,,IMG_0004.MOV,,,https://wustl.box.com/s/sdhf4g2aw88rf4svwn4n53oohcke73u7,,Box,FALSE
+11,HT056P1,,HT056P1-R1,SVS,H&E,HT056P1 P.svs,,,https://wustl.box.com/s/zkmr109u6dc0w0nfa4ij5mmiv51re8gr,,Box,TRUE
+12,HT056P1,PB,HT056P1-PB,SVS,H&E,HT056P1 PB.svs,,,https://wustl.box.com/s/cv6r14j9ohkcqd37csgenq2yy29475pu,,Box,TRUE
+13,HT056P1,PB,HT056P1-PB,SVS,H&E,HT56P B.svs,,,https://wustl.box.com/s/ti1z8ad9mtttuvm78ltcfwq8xikf79ta,,Box,TRUE
+14,HT056P1,PE,HT056P1-PE,SVS,H&E,HT56P E.svs,,,https://wustl.box.com/s/a7el1amsoeooyifbu8do6f5ss1htxol5,,Box,TRUE
+15,HT056P1,PA,HT056P1-PA,SVS,H&E,HT56P1 A.svs,,,https://wustl.box.com/s/w62ux8418a15oq5kk6wrjg5ds34wz6zh,,Box,TRUE
+16,HT056P1,PC,HT056P1-PC,SVS,H&E,HT56P1 C.svs,,,https://wustl.box.com/s/ms5ix1l2qt90wic7hgvsnxej29djxf6e,,Box,TRUE
+17,HT056P1,PD,HT056P1-PD,SVS,H&E,HT56P1 D.svs,,,https://wustl.box.com/s/awmwt0r8wftpif22wcp754m5sa4r5i6n,,Box,TRUE
+26,HT060P1,PAA1 PAA4,"HT060P1-PAA1,PAA4",SVS,H&E,HT060P P1.svs,,,https://wustl.box.com/s/olzvo3gj4bmz7a4qyohdq78o7mrp79vs,,Box,TRUE
+27,HT060P1,PBA1 PBA4,"HT060P1-PBA1,PBA4",SVS,H&E,HT060P PB.svs,,,https://wustl.box.com/s/olzvo3gj4bmz7a4qyohdq78o7mrp79vs,,Box,TRUE
+28,HT060P1,REMAINS,HT060P1-R1,SVS,H&E,HT60P1 REMAINS.svs,,,https://wustl.box.com/s/tn4du355a8sesnls5wv8cxc7g7iu41z7,,Box,TRUE
+41,HT061P1,A-Superior A-Inferior,HT061P1-PA,SVS,H&E,HT61P A.svs,,,https://wustl.box.com/s/a9wm9qbub88eigthp4w17duzmeesxwzc,,Box,TRUE
+42,HT061P1,B-Superior B-Inferior,HT061P1-PB,SVS,H&E,HT61P B .svs,,,https://wustl.box.com/s/xteyuw5wupjjm9zkwcs2v0s2r01hxym8,,Box,TRUE
+43,HT061P1,C-Superior C-Inferior,HT061P1-PC,SVS,H&E,HT61P C.svs,,,https://wustl.box.com/s/ppmchm1v0ezd7a0zq3e5j2h39v814pm5,,Box,TRUE
+53,HT064P1,S1H1L1 S1H1L2,"HT064P1-S1H1L1,S1H1L2",SVS,H&E,HT64P1 H1.svs,,,https://wustl.box.com/s/isz1dnh71ofs01jwatmorrgqto9rmji1,,Box,TRUE
+54,HT064P1,S1H3L1 S1H3L2,"HT064P1-S1H3L1,S1H3L2",SVS,H&E,HT64P1 H3.svs,,,https://wustl.box.com/s/ud9roa5ocfu85r6pfrvs4vmobb10cuzc,,Box,TRUE
+55,HT064P1,S1H7L1 S1H7L2,"HT064P1-S1H7L1,S1H7L2",SVS,H&E,HT64P1 H7.svs,,,https://wustl.box.com/s/e00hcdulcp0cte92pqau8zfozh689gln,,Box,TRUE
+56,HT064P1,S1H9L1 S1H9L2,"HT064P1-S1H9L1,S1H9L2",SVS,H&E,HT64P1 H9.svs,,,https://wustl.box.com/s/wkmtcv9ozlnm8a7ywmfmka5ypgctcahe,,Box,TRUE
+69,HT071P1,S1H1A1 S1H1A4,"HT071P1-S1H1A1,S1H1A4",SVS,H&E,HT071A H1.svs,,,https://wustl.box.com/s/48f2irq92izukyspclhhayozwy02eo97,,Box,TRUE
+70,HT071P1,S1H4A1 S1H4A4,"HT071P1-S1H4A1,S1H4A4",SVS,H&E,HT071A H4.svs,,,https://wustl.box.com/s/48f2irq92izukyspclhhayozwy02eo97,,Box,TRUE
+71,HT071P1,S1H5A1 S1H5A4,"HT071P1-S1H5A1,S1H5A4",SVS,H&E,HT071A H5*.svs,,,https://wustl.box.com/s/ms14vfbxic3j55nohwi5ouzg0a94j5yg,,Box,TRUE
+72,HT071P1,S1H9A1 S1H9A4,"HT071P1-S1H9A1,S1H9A4",SVS,H&E,HT071B H9.svs,,,https://wustl.box.com/s/gp6xybeaml1751ihu2mcq9rzvc60tj28,,Box,TRUE
+79,HT085P1,S1H1L1 S1H1L2,"HT085P1-S1H1L1,S1H1L2",SVS,H&E,HT085P1 H1.svs,,,https://wustl.box.com/s/qohzaio0r52mpi16lqtli8xfmhk0gz3n,,Box,TRUE
+80,HT085P1,S1H2L1 S1H2L2,"HT085P1-S1H2L1,S1H2L2",SVS,H&E,HT085P1 H2.svs,,,https://wustl.box.com/s/lazupkf8cjbi240un29led0zkhy0vwlp,,Box,TRUE
+81,HT085P1,S1H3L1 S1H3L2,"HT085P1-S1H3L1,S1H3L2",SVS,H&E,HT085P1 H3.svs,,,https://wustl.box.com/s/3tlps26rg2ofpdwx02l7z9ydop964igi,,Box,TRUE
+82,HT085P1,S1H4L1 S1H4L2,"HT085P1-S1H4L1,S1H4L2",SVS,H&E,HT085P1 H4.svs,,,https://wustl.box.com/s/vlinhlsf6n96ga7l40f2aa8kn6tiuajr,,Box,TRUE
+83,HT115P1,S1H3A1 S1H3A4,"HT115P1-S1H3A1,S1H3A4",SVS,H&E,HT115P1 H3.svs,,,https://wustl.box.com/s/qf6irj2zsq0trs0429crnxmw278wmzgw,,Box,TRUE
+84,HT115P1,S1H5A1 S1H5A4,"HT115P1-S1H5A1,S1H5A4",SVS,H&E,HT115P1 H5.svs,,,https://wustl.box.com/s/88x0h5oz0yqlxt304u08np7hq2oemzvo,,Box,TRUE
+85,HT115P1,S1H6A1 S1H6A4,"HT115P1-S1H6A1,S1H6A4",SVS,H&E,HT115P1 H6.svs,,,https://wustl.box.com/s/xg5h679brp778kjrjrxn3cznjrmuhjhb,,Box,TRUE
+86,HT121P1,S1H3A1 S1H3A4,"HT121P1-S1H3A1,S1H3A4",SVS,H&E,HT121P1 H3.svs,,,https://wustl.box.com/s/4ziz6ooxt7hlpzmf6ylmw0uh5615h0qg,,Box,TRUE
+87,HT121P1,S1H4A1 S1H4A4,"HT121P1-S1H4A1,S1H4A4",SVS,H&E,HT121P1 H4.svs,,,https://wustl.box.com/s/b1zjr091v6rznxn4xr6fse1iikv5lmqz,,Box,TRUE
+88,HT121P1,S1H5A1 S1H5A4,"HT121P1-S1H5A1,S1H5A4",SVS,H&E,HT121P1 H5.svs,,,https://wustl.box.com/s/mh0igeggjx69khf3adj2fa5elt0uu9ll,,Box,TRUE
+89,HT121P1,S1H9A1,HT121P1-S1H9A1,SVS,H&E,HT121P1 H9 A1.svs,,,https://wustl.box.com/s/ukmiyhh9a6sfwlatr40r46hm7t5z1owk,,Box,TRUE
+109,HT122P1,S1H3 Vp1,"HT122P1-S1H3,Vp1",SVS,H&E,HT 122 P1 S1H3 Vp1 U11.svs,,,https://wustl.box.com/s/e47kdow992hc35an90l84onhqpnregts,,Box,TRUE
+110,HT122P1,S1H4 Vp1,"HT122P1-S1H4,Vp1",SVS,H&E,HT 122 P1 S1H4 Vp1 U4.svs,,,https://wustl.box.com/s/0n5netzf21jfnzmd3of9j9jrp9poj7hj,,Box,TRUE
+111,HT122P1,S1H5 Vp1,"HT122P1-S1H5,Vp1",SVS,H&E,HT 122 P1 S1H5 Vp1 U22.svs,,,https://wustl.box.com/s/mvayek1wzuuvxz2fne9qffbmhz7lco4z,,Box,TRUE
+112,HT122P1,S1H9 Vp1,"HT122P1-S1H9,Vp1",SVS,H&E,HT 122 P1 S1H9 Vp1 U15.svs,,,https://wustl.box.com/s/2khwfnxdwfgie6f5pppydfuiebr4m51c,,Box,TRUE
+121,HT123P1,S1H1,HT123P1-S1H1,SVS,H&E,HT 123 P1 S1H1 1.svs,,Labeled as 'S1H1' but there are two tissue specimens (should be Vp1?),https://wustl.box.com/s/hz1djwv07qacvm8f9cprxt1341gbfgvf,,Box,TRUE
+122,HT123P1,S1H3 Vp1,"HT123P1-S1H3,Vp1",SVS,H&E,HT 123 P1 S1H3 Vp1 U4.svs,,,https://wustl.box.com/s/z0dx9s8z7g1uiojz2yy2l1kh4j97b1j6,,Box,TRUE
+123,HT123P1,S1H5 Vp1,"HT123P1-S1H5,Vp1",SVS,H&E,HT 123 P1 S1H5 Vp1 U4.svs,,,https://wustl.box.com/s/b7ppjvolres8jytpqox0wmd0b79jb7b2,,Box,TRUE
+131,HT124P1,S1H1 Vp1,"HT124P1-S1H1,Vp1",SVS,H&E,HT 124 P1 S1H1 Vp1 U3.svs,,,https://wustl.box.com/s/k4tfo3trjvbmfcc65uq90cagqc0m03w0,,Box,TRUE
+132,HT124P1,S1H2 Vp1,"HT124P1-S1H2,Vp1",SVS,H&E,HT 124 P1 S1H2 Vp1 U14.svs,,,https://wustl.box.com/s/z0t0y287yxcfaxdktutxgdpa05zm6kp6,,Box,TRUE
+133,HT124P1,S1H4 Vp1,"HT124P1-S1H4,Vp1",SVS,H&E,HT 124 P1 S1H4 Vp1 U4.svs,,,https://wustl.box.com/s/zg50741pka73uxnotpm237y86hc76lz3,,Box,TRUE
+134,HT125P1,S1H3A1 S1H3A4,"HT125P1-S1H3A1,S1H3A4",SVS,H&E,HT125P1 H3.svs,,,https://wustl.box.com/s/sbob7dw85yn5uxdknqhhmk8xbp9eqvtv,,Box,TRUE
+135,HT125P1,S1H4A1 S1H4A4,"HT125P1-S1H4A1,S1H4A4",SVS,H&E,HT125P1 H4.svs,,,https://wustl.box.com/s/316nyqg7apujf83p0y6wpjd0eyd056zb,,Box,TRUE
+136,HT125P1,S1H8A1 S1H8A4,"HT125P1-S1H8A1,S1H8A4",SVS,H&E,HT125P1 H8.svs,,,https://wustl.box.com/s/wgj83tihxi7zc7lygb6lq302r86cj88m,,Box,TRUE
+137,HT125P1,S1H9A1 S1H9A4,"HT125P1-S1H9A1,S1H9A4",SVS,H&E,HT125P1 H9.svs,,,https://wustl.box.com/s/18s2rukxvwas48weys3l7zlawalulx2i,,Box,TRUE
+138,HT138P1,S1H2A1 S1H2A4,"HT138P1-S1H2A1,S1H2A4",SVS,H&E,HT138P1 H2.svs,,,https://wustl.box.com/s/104blnxpg3z4qtfk9xbtdiqf5zzd6uvi,,Box,TRUE
+139,HT138P1,S1H3A1 S1H3A4,"HT138P1-S1H3A1,S1H3A4",SVS,H&E,HT 138P1 H3.svs,,,https://wustl.box.com/s/voui4bjiaazrgleod8mce6krknipdcoe,,Box,TRUE
+140,HT138P1,S1H5A1 S1H5A4,"HT138P1-S1H5A1,S1H5A4",SVS,H&E,HT138P1 H5.svs,,,https://wustl.box.com/s/kzbuw59qfiop53cd3zxnq00g2ki7dj42,,Box,TRUE
+141,HT138P1,S1H6A1 S1H6A4,"HT138P1-S1H6A1,S1H6A4",SVS,H&E,HT-138P1 H6.svs,,,https://wustl.box.com/s/hnc99xo1eefena1ehk0aiepz4uj28zid,,Box,TRUE
+142,HT140P1,S1H1A1 S1H1A4,"HT140P1-S1H1A1,S1H1A4",SVS,H&E,HT140P1 H1.svs,,,https://wustl.box.com/s/nuwteuifhvgzoaysvkoj6op1hn7vuoxv,,Box,TRUE
+143,HT140P1,S1H3A1 S1H3A4,"HT140P1-S1H3A1,S1H3A4",SVS,H&E,HT140P1 H3.svs,,,https://wustl.box.com/s/0966gx4cntgg4fvq5hxoz2wlbl1bjaef,,Box,TRUE
+144,HT140P1,S1H6A1 S1H6A4,"HT140P1-S1H6A1,S1H6A4",SVS,H&E,HT140P1 H6.svs,,,https://wustl.box.com/s/vw6uz63zp9v2ock1788mx859yr4aek6e,,Box,TRUE
+152,HT166P1,S1H2 Vp1,"HT166P1-S1H2,Vp1",SVS,H&E,HT 166 P1 S1H2 Vp1 U20.svs,,,https://wustl.box.com/s/nad1r9hufhtxeiozbvp5r8667zsk10zw,,Box,TRUE
+153,HT166P1,S1H5 Vp1,"HT166P1-S1H5,Vp1",SVS,H&E,HT 166 P1 S1H5 Vp1 U21.svs,,,https://wustl.box.com/s/y9xgk8kjlobpaswb76alhdu6z6a7hkfj,,Box,TRUE
+154,HT166P1,S1H6 Vp1,"HT166P1-S1H6,Vp1",SVS,H&E,HT 166 P1 S1H6 Vp1 U3.svs,,,https://wustl.box.com/s/ehdc79fo7lt84ct8r845vtzloi716g94,,Box,TRUE
+170,HT168P1,S1H2 Vp1,"HT168P1-S1H2,Vp1",SVS,H&E,HT 168 P1 S1H2 Vp1 U2.svs,,,https://wustl.box.com/s/tqolh722vb6x5pkurjj80furyypd06t5,,Box,TRUE
+171,HT168P1,S1H3 Vp1,"HT168P1-S1H3,Vp1",SVS,H&E,HT 168 P1 S1H3 Vp1 L1 L4 U10.svs,,,https://wustl.box.com/s/fztrosuvb9boz0c55ho5y9kzys10635o,,Box,TRUE
+172,HT168P1,S1H4 Vp1,"HT168P1-S1H4,Vp1",SVS,H&E,HT 168 P1 S1H4 Vp1 U13.svs,,,https://wustl.box.com/s/4j1y6p73ffympvtbdmx9nsuyu193yhee,,Box,TRUE
+173,HT185P1,S1H2L1 S1H2L4,"HT185P1-S1H2L1,S1H2L4",SVS,H&E,HT185P1 H2.svs,,,https://wustl.box.com/s/lowoalxc6sdrnspckyybhdkkrmlxhp7a,,Box,TRUE
+174,HT185P1,S1H3L1 S1H3L4,"HT185P1-S1H3L1,S1H3L4",SVS,H&E,HT185P1 H3.svs,,,https://wustl.box.com/s/16cnjj6nt1d9avtzg8xeii79ir1ojm6g,,Box,TRUE
+175,HT185P1,S1H6L1 S1H6L4,"HT185P1-S1H6L1,S1H6L4",SVS,H&E,HT185P1 H6.svs,,,https://wustl.box.com/s/urc0pkkrje1j3lyj6aqo1ga6re53n41r,,Box,TRUE
+176,HT190P1,S1H9L1 S1H9L4,"HT190P1-S1H9L1,S1H9L4",SVS,H&E,HT190 H9.svs,,,https://wustl.box.com/s/s9v512t8tniqnbm2pf5vufxe13dlq2pn,,Box,TRUE
+177,HT190P1,S1H7L1 S1H7L4,"HT190P1-S1H7L1,S1H7L4",SVS,H&E,HT190P1 H7.svs,,,https://wustl.box.com/s/hr11hit16oc09dgbqf80zfq2m1z2fud8,,Box,TRUE
+178,HT191P1,S1H1L1 S1H1L4,"HT191P1-S1H1L1,S1H1L4",SVS,H&E,HT191P1 H1.svs,,,https://wustl.box.com/s/a5mxnkhcyrzsbparkded5lns354hte8c,,Box,TRUE
+179,HT191P1,S1H2L1 S1H2L4,"HT191P1-S1H2L1,S1H2L4",SVS,H&E,HT191P1 H2.svs,,,https://wustl.box.com/s/g34wef6n85ki0r0rukgqd6b527cmvz4l,,Box,TRUE
+180,HT191P1,S1H4L1 S1H4L4,"HT191P1-S1H4L1,S1H4L4",SVS,H&E,HT191P1 H4.svs,,,https://wustl.box.com/s/spx40qond0sfphsop9dpyt17pbcab251,,Box,TRUE
+181,HT200P1,S1H2L1 S1H2L4,"HT200P1-S1H2L1,S1H2L4",SVS,H&E,HT200P1 H2.svs,,,https://wustl.box.com/s/nkrdwt001t3dggo9pld441gdua41sou6,,Box,TRUE
+182,HT200P1,S1H4L1 S1H4L4,"HT200P1-S1H4L1,S1H4L4",SVS,H&E,HT200P1 H4.svs,,,https://wustl.box.com/s/pbmpmlsqy34jt8ea3406uaemc9knpv64,,Box,TRUE
+183,HT204P1,S1H2L1 S1H2L4,"HT204P1-S1H2L1,S1H2L4",SVS,H&E,HT204P1 H2.svs,,,https://wustl.box.com/s/xwkt6qrq2twxhxyoedav51bnzs5cw0up,,Box,TRUE
+184,HT204P1,S1H4L1 S1H4L4,"HT204P1-S1H4L1,S1H4L4",SVS,H&E,HT204P1 H4.svs,,,https://wustl.box.com/s/2162tumzk9cr30rrc7ecb9ff2jjhgelu,,Box,TRUE
+185,HT204P1,S1H5L1 S1H5L4,"HT204P1-S1H5L1,S1H5L4",SVS,H&E,HT204P1 H5.svs,,,https://wustl.box.com/s/rbwz5jaa7woplul762kskrgxj5uzx4n3,,Box,TRUE
+1,HT055P1,PAA1 PAA4,"HT055P1-PAA1,PAA4",TIFF,,HT055P1_PA_A1_A4_ROI_01.ome.tiff,1,,,/storage1/fs1/dinglab/Active/Primary/HTAN.Imaging/hyperion/02192021/b1_01042020/ome-tiff_htan/HT055P1_PA_A1_A4_ROI_01.ome.tiff,Storage1,FALSE
+2,HT055P1,PAA1 PAA4,"HT055P1-PAA1,PAA4",TIFF,,HT055P1_PA_A1_A4_ROI_02.ome.tiff,2,,,/storage1/fs1/dinglab/Active/Primary/HTAN.Imaging/hyperion/02192021/b1_01042020/ome-tiff_htan/HT055P1_PA_A1_A4_ROI_02.ome.tiff,Storage1,FALSE
+3,HT055P1,PAA1 PAA4,"HT055P1-PAA1,PAA4",TIFF,,HT055P1_PA_A1_A4_ROI_03.ome.tiff,3,,,/storage1/fs1/dinglab/Active/Primary/HTAN.Imaging/hyperion/02192021/b1_01042020/ome-tiff_htan/HT055P1_PA_A1_A4_ROI_03.ome.tiff,Storage1,FALSE
+4,HT055P1,PAA1 PAA4,"HT055P1-PAA1,PAA4",TIFF,,HT055P1_PA_A1_A4_ROI_04.ome.tiff,4,,,/storage1/fs1/dinglab/Active/Primary/HTAN.Imaging/hyperion/02192021/b1_01042020/ome-tiff_htan/HT055P1_PA_A1_A4_ROI_04.ome.tiff,Storage1,FALSE
+5,HT055P1,PAA1 PAA4,"HT055P1-PAA1,PAA4",TIFF,,HT055P1_PA_A1_A4_ROI_05.ome.tiff,5,,,/storage1/fs1/dinglab/Active/Primary/HTAN.Imaging/hyperion/02192021/b1_01042020/ome-tiff_htan/HT055P1_PA_A1_A4_ROI_05.ome.tiff,Storage1,FALSE
+18,HT056P1,PAA1 PAA4,"HT056P1-PAA1,PAA4",TIFF,IMC,HT056P1_PA_A1_A4_ROI_01.ome.tiff,1,,,/storage1/fs1/dinglab/Active/Primary/HTAN.Imaging/hyperion/02192021/b1_01042020/ome-tiff_htan/HT056P1_PA_A1_A4_ROI_01.ome.tiff,Storage1,TRUE
+19,HT056P1,PAA1 PAA4,"HT056P1-PAA1,PAA4",TIFF,IMC,HT056P1_PA_A1_A4_ROI_02.ome.tiff,2,,,/storage1/fs1/dinglab/Active/Primary/HTAN.Imaging/hyperion/02192021/b1_01042020/ome-tiff_htan/HT056P1_PA_A1_A4_ROI_02.ome.tiff,Storage1,TRUE
+20,HT056P1,PAA1 PAA4,"HT056P1-PAA1,PAA4",TIFF,IMC,HT056P1_PA_A1_A4_ROI_03.ome.tiff,3,,,/storage1/fs1/dinglab/Active/Primary/HTAN.Imaging/hyperion/02192021/b1_01042020/ome-tiff_htan/HT056P1_PA_A1_A4_ROI_03.ome.tiff,Storage1,TRUE
+21,HT056P1,PBA1 PBA4,"HT056P1-PBA1,PBA4",TIFF,IMC,HT056P1_PB_A1_A4_ROI_01.ome.tiff,1,,,/storage1/fs1/dinglab/Active/Primary/HTAN.Imaging/hyperion/02192021/b1_01042020/ome-tiff_htan/HT056P1_PB_A1_A4_ROI_01.ome.tiff,Storage1,TRUE
+22,HT056P1,PBA1 PBA4,"HT056P1-PBA1,PBA4",TIFF,IMC,HT056P1_PB_A1_A4_ROI_02.ome.tiff,2,,,/storage1/fs1/dinglab/Active/Primary/HTAN.Imaging/hyperion/02192021/b1_01042020/ome-tiff_htan/HT056P1_PB_A1_A4_ROI_02.ome.tiff,Storage1,TRUE
+23,HT056P1,PBA1 PBA4,"HT056P1-PBA1,PBA4",TIFF,IMC,HT056P1_PB_A1_A4_ROI_03.ome.tiff,3,,,/storage1/fs1/dinglab/Active/Primary/HTAN.Imaging/hyperion/02192021/b1_01042020/ome-tiff_htan/HT056P1_PB_A1_A4_ROI_03.ome.tiff,Storage1,TRUE
+24,HT056P1,PBA1 PBA4,"HT056P1-PBA1,PBA4",TIFF,IMC,HT056P1_PB_A1_A4_ROI_04.ome.tiff,4,,,/storage1/fs1/dinglab/Active/Primary/HTAN.Imaging/hyperion/02192021/b1_01042020/ome-tiff_htan/HT056P1_PB_A1_A4_ROI_04.ome.tiff,Storage1,TRUE
+25,HT056P1,PBA1 PBA4,"HT056P1-PBA1,PBA4",TIFF,IMC,HT056P1_PB_A1_A4_ROI_05.ome.tiff,5,,,/storage1/fs1/dinglab/Active/Primary/HTAN.Imaging/hyperion/02192021/b1_01042020/ome-tiff_htan/HT056P1_PB_A1_A4_ROI_05.ome.tiff,Storage1,TRUE
+29,HT060P1,PAA1 PAA4,"HT060P1-PAA1,PAA4",TIFF,IMC,HT060P1_PA_A1_A4_ROI_01.ome.tiff,1,,,/storage1/fs1/dinglab/Active/Primary/HTAN.Imaging/hyperion/02192021/b1_01042020/ome-tiff_htan/HT060P1_PA_A1_A4_ROI_01.ome.tiff,Storage1,TRUE
+30,HT060P1,PAA1 PAA4,"HT060P1-PAA1,PAA4",TIFF,IMC,HT060P1_PA_A1_A4_ROI_02.ome.tiff,2,,,/storage1/fs1/dinglab/Active/Primary/HTAN.Imaging/hyperion/02192021/b1_01042020/ome-tiff_htan/HT060P1_PA_A1_A4_ROI_02.ome.tiff,Storage1,TRUE
+31,HT060P1,PAA1 PAA4,"HT060P1-PAA1,PAA4",TIFF,IMC,HT060P1_PA_A1_A4_ROI_03.ome.tiff,3,,,/storage1/fs1/dinglab/Active/Primary/HTAN.Imaging/hyperion/02192021/b1_01042020/ome-tiff_htan/HT060P1_PA_A1_A4_ROI_03.ome.tiff,Storage1,TRUE
+32,HT060P1,PBA1 PBA4,"HT060P1-PBA1,PBA4",TIFF,IMC,HT060P1_PB_A1_A4_ROI_01.ome.tiff,1,,,/storage1/fs1/dinglab/Active/Primary/HTAN.Imaging/hyperion/02192021/b1_01042020/ome-tiff_htan/HT060P1_PB_A1_A4_ROI_01.ome.tiff,Storage1,TRUE
+33,HT060P1,PBA1 PBA4,"HT060P1-PBA1,PBA4",TIFF,IMC,HT060P1_PB_A1_A4_ROI_02.ome.tiff,2,,,/storage1/fs1/dinglab/Active/Primary/HTAN.Imaging/hyperion/02192021/b1_01042020/ome-tiff_htan/HT060P1_PB_A1_A4_ROI_02.ome.tiff,Storage1,TRUE
+34,HT060P1,PBA1 PBA4,"HT060P1-PBA1,PBA4",TIFF,IMC,HT060P1_PB_A1_A4_ROI_04.ome.tiff,4,,,/storage1/fs1/dinglab/Active/Primary/HTAN.Imaging/hyperion/02192021/b1_01042020/ome-tiff_htan/HT060P1_PB_A1_A4_ROI_04.ome.tiff,Storage1,TRUE
+35,HT060P1,PBA1 PBA4,"HT060P1-PBA1,PBA4",TIFF,IMC,HT060P1_PB_A1_A4_ROI_05.ome.tiff,5,,,/storage1/fs1/dinglab/Active/Primary/HTAN.Imaging/hyperion/02192021/b1_01042020/ome-tiff_htan/HT060P1_PB_A1_A4_ROI_05.ome.tiff,Storage1,TRUE
+36,HT060P1,PBA1 PBA4,"HT060P1-PBA1,PBA4",TIFF,IMC,HT060P1_PB_A1_A4_ROI_06.ome.tiff,6,,,/storage1/fs1/dinglab/Active/Primary/HTAN.Imaging/hyperion/02192021/b1_01042020/ome-tiff_htan/HT060P1_PB_A1_A4_ROI_06.ome.tiff,Storage1,TRUE
+37,HT060P1,REMAINS,HT060P1-R1,TIFF,IMC,HT060P1_REMAIN_ROI_01.ome.tiff,1,,,/storage1/fs1/dinglab/Active/Primary/HTAN.Imaging/hyperion/02192021/b1_01042020/ome-tiff_htan/HT060P1_REMAIN_ROI_01.ome.tiff,Storage1,TRUE
+38,HT060P1,REMAINS,HT060P1-R1,TIFF,IMC,HT060P1_REMAIN_ROI_02.ome.tiff,2,,,/storage1/fs1/dinglab/Active/Primary/HTAN.Imaging/hyperion/02192021/b1_01042020/ome-tiff_htan/HT060P1_REMAIN_ROI_02.ome.tiff,Storage1,TRUE
+39,HT060P1,REMAINS,HT060P1-R1,TIFF,IMC,HT060P1_REMAIN_ROI_03.ome.tiff,3,,,/storage1/fs1/dinglab/Active/Primary/HTAN.Imaging/hyperion/02192021/b1_01042020/ome-tiff_htan/HT060P1_REMAIN_ROI_03.ome.tiff,Storage1,TRUE
+40,HT060P1,REMAINS,HT060P1-R1,TIFF,IMC,HT060P1_REMAIN_ROI_04.ome.tiff,4,,,/storage1/fs1/dinglab/Active/Primary/HTAN.Imaging/hyperion/02192021/b1_01042020/ome-tiff_htan/HT060P1_REMAIN_ROI_04.ome.tiff,Storage1,TRUE
+44,HT061P1,A-Superior A-Inferior,HT061P1-PA,TIFF,IMC,HT061P1_PA_A1_A4_ROI_01.ome.tiff,1,,,/storage1/fs1/dinglab/Active/Primary/HTAN.Imaging/hyperion/02192021/b1_01042020/ome-tiff_htan/HT061P1_PA_A1_A4_ROI_01.ome.tiff,Storage1,TRUE
+45,HT061P1,A-Superior A-Inferior,HT061P1-PA,TIFF,IMC,HT061P1_PA_A1_A4_ROI_02.ome.tiff,2,,,/storage1/fs1/dinglab/Active/Primary/HTAN.Imaging/hyperion/02192021/b1_01042020/ome-tiff_htan/HT061P1_PA_A1_A4_ROI_02.ome.tiff,Storage1,TRUE
+46,HT061P1,A-Superior A-Inferior,HT061P1-PA,TIFF,IMC,HT061P1_PA_A1_A4_ROI_03.ome.tiff,3,,,/storage1/fs1/dinglab/Active/Primary/HTAN.Imaging/hyperion/02192021/b1_01042020/ome-tiff_htan/HT061P1_PA_A1_A4_ROI_03.ome.tiff,Storage1,TRUE
+47,HT061P1,B-Superior B-Inferior,HT061P1-PB,TIFF,IMC,HT061P1_PB_A1_A4_ROI_01.ome.tiff,1,,,/storage1/fs1/dinglab/Active/Primary/HTAN.Imaging/hyperion/02192021/b1_01042020/ome-tiff_htan/HT061P1_PB_A1_A4_ROI_01.ome.tiff,Storage1,TRUE
+48,HT061P1,B-Superior B-Inferior,HT061P1-PB,TIFF,IMC,HT061P1_PB_A1_A4_ROI_02.ome.tiff,2,,,/storage1/fs1/dinglab/Active/Primary/HTAN.Imaging/hyperion/02192021/b1_01042020/ome-tiff_htan/HT061P1_PB_A1_A4_ROI_02.ome.tiff,Storage1,TRUE
+49,HT061P1,B-Superior B-Inferior,HT061P1-PB,TIFF,IMC,HT061P1_PB_A1_A4_ROI_03.ome.tiff,3,,,/storage1/fs1/dinglab/Active/Primary/HTAN.Imaging/hyperion/02192021/b1_01042020/ome-tiff_htan/HT061P1_PB_A1_A4_ROI_03.ome.tiff,Storage1,TRUE
+50,HT061P1,C-Superior C-Inferior,HT061P1-PC,TIFF,IMC,HT061P1_PC_A1_A4_ROI_01.ome.tiff,1,,,/storage1/fs1/dinglab/Active/Primary/HTAN.Imaging/hyperion/02192021/b1_01042020/ome-tiff_htan/HT061P1_PC_A1_A4_ROI_01.ome.tiff,Storage1,TRUE
+51,HT061P1,C-Superior C-Inferior,HT061P1-PC,TIFF,IMC,HT061P1_PC_A1_A4_ROI_02.ome.tiff,2,,,/storage1/fs1/dinglab/Active/Primary/HTAN.Imaging/hyperion/02192021/b1_01042020/ome-tiff_htan/HT061P1_PC_A1_A4_ROI_02.ome.tiff,Storage1,TRUE
+52,HT061P1,C-Superior C-Inferior,HT061P1-PC,TIFF,IMC,HT061P1_PC_A1_A4_ROI_03.ome.tiff,3,,,/storage1/fs1/dinglab/Active/Primary/HTAN.Imaging/hyperion/02192021/b1_01042020/ome-tiff_htan/HT061P1_PC_A1_A4_ROI_03.ome.tiff,Storage1,TRUE
+57,HT064P1,S1H1L1 S1H1L2,"HT064P1-S1H1L1,S1H1L2",TIFF,IMC,HT064B1_H1_A1_A4_ROI_01.ome.tiff,1,,,/storage1/fs1/dinglab/Active/Primary/HTAN.Imaging/hyperion/02192021/b1_01042020/ome-tiff_htan/HT064B1_H1_A1_A4_ROI_01.ome.tiff,Storage1,TRUE
+58,HT064P1,S1H1L1 S1H1L2,"HT064P1-S1H1L1,S1H1L2",TIFF,IMC,HT064B1_H1_A1_A4_ROI_02.ome.tiff,2,,,/storage1/fs1/dinglab/Active/Primary/HTAN.Imaging/hyperion/02192021/b1_01042020/ome-tiff_htan/HT064B1_H1_A1_A4_ROI_02.ome.tiff,Storage1,TRUE
+59,HT064P1,S1H1L1 S1H1L2,"HT064P1-S1H1L1,S1H1L2",TIFF,IMC,HT064B1_H1_A1_A4_ROI_03.ome.tiff,3,,,/storage1/fs1/dinglab/Active/Primary/HTAN.Imaging/hyperion/02192021/b1_01042020/ome-tiff_htan/HT064B1_H1_A1_A4_ROI_03.ome.tiff,Storage1,TRUE
+60,HT064P1,S1H1L1 S1H1L2,"HT064P1-S1H1L1,S1H1L2",TIFF,IMC,HT064B1_H1_A1_A4_ROI_04.ome.tiff,4,,,/storage1/fs1/dinglab/Active/Primary/HTAN.Imaging/hyperion/02192021/b1_01042020/ome-tiff_htan/HT064B1_H1_A1_A4_ROI_04.ome.tiff,Storage1,TRUE
+61,HT064P1,S1H3L1 S1H3L2,"HT064P1-S1H3L1,S1H3L2",TIFF,IMC,HT064B1_H3_A1_A4_ROI_01.ome.tiff,1,,,/storage1/fs1/dinglab/Active/Primary/HTAN.Imaging/hyperion/02192021/b1_01042020/ome-tiff_htan/HT064B1_H3_A1_A4_ROI_01.ome.tiff,Storage1,TRUE
+62,HT064P1,S1H3L1 S1H3L2,"HT064P1-S1H3L1,S1H3L2",TIFF,IMC,HT064B1_H3_A1_A4_ROI_02.ome.tiff,2,,,/storage1/fs1/dinglab/Active/Primary/HTAN.Imaging/hyperion/02192021/b1_01042020/ome-tiff_htan/HT064B1_H3_A1_A4_ROI_02.ome.tiff,Storage1,TRUE
+63,HT064P1,S1H3L1 S1H3L2,"HT064P1-S1H3L1,S1H3L2",TIFF,IMC,HT064B1_H3_A1_A4_ROI_03.ome.tiff,3,,,/storage1/fs1/dinglab/Active/Primary/HTAN.Imaging/hyperion/02192021/b1_01042020/ome-tiff_htan/HT064B1_H3_A1_A4_ROI_03.ome.tiff,Storage1,TRUE
+64,HT064P1,S1H7L1 S1H7L2,"HT064P1-S1H7L1,S1H7L2",TIFF,IMC,HT064B1_H7_A1_A4_ROI_01.ome.tiff,1,,,/storage1/fs1/dinglab/Active/Primary/HTAN.Imaging/hyperion/02192021/b1_01042020/ome-tiff_htan/HT064B1_H7_A1_A4_ROI_01.ome.tiff,Storage1,TRUE
+65,HT064P1,S1H7L1 S1H7L2,"HT064P1-S1H7L1,S1H7L2",TIFF,IMC,HT064B1_H7_A1_A4_ROI_02.ome.tiff,2,,,/storage1/fs1/dinglab/Active/Primary/HTAN.Imaging/hyperion/02192021/b1_01042020/ome-tiff_htan/HT064B1_H7_A1_A4_ROI_02.ome.tiff,Storage1,TRUE
+66,HT064P1,S1H7L1 S1H7L2,"HT064P1-S1H7L1,S1H7L2",TIFF,IMC,HT064B1_H7_A1_A4_ROI_03.ome.tiff,3,,,/storage1/fs1/dinglab/Active/Primary/HTAN.Imaging/hyperion/02192021/b1_01042020/ome-tiff_htan/HT064B1_H7_A1_A4_ROI_03.ome.tiff,Storage1,TRUE
+67,HT064P1,S1H9L1 S1H9L2,"HT064P1-S1H9L1,S1H9L2",TIFF,IMC,HT064B1_H9_A1_A4_ROI_01.ome.tiff,1,,,/storage1/fs1/dinglab/Active/Primary/HTAN.Imaging/hyperion/02192021/b1_01042020/ome-tiff_htan/HT064B1_H9_A1_A4_ROI_01.ome.tiff,Storage1,TRUE
+68,HT064P1,S1H9L1 S1H9L2,"HT064P1-S1H9L1,S1H9L2",TIFF,IMC,HT064B1_H9_A1_A4_ROI_02.ome.tiff,2,,,/storage1/fs1/dinglab/Active/Primary/HTAN.Imaging/hyperion/02192021/b1_01042020/ome-tiff_htan/HT064B1_H9_A1_A4_ROI_02.ome.tiff,Storage1,TRUE
+73,HT081B1,S1H5A1_S1H5A4,HT081B1-S1H5A1_S1H5A4,TIFF,,HT081B1_H5_A1_ROI_01.ome.tiff,1,,,/storage1/fs1/dinglab/Active/Primary/HTAN.Imaging/hyperion/02192021/b1_01042020/ome-tiff_htan/HT081B1_H5_A1_ROI_01.ome.tiff,Storage1,FALSE
+74,HT081B1,S1H5A1_S1H5A4,HT081B1-S1H5A1_S1H5A4,TIFF,,HT081B1_H5_A1_ROI_02.ome.tiff,2,,,/storage1/fs1/dinglab/Active/Primary/HTAN.Imaging/hyperion/02192021/b1_01042020/ome-tiff_htan/HT081B1_H5_A1_ROI_02.ome.tiff,Storage1,FALSE
+75,HT081B1,S1H5A1_S1H5A4,HT081B1-S1H5A1_S1H5A4,TIFF,,HT081B1_H5_A4_ROI_01.ome.tiff,1,,,/storage1/fs1/dinglab/Active/Primary/HTAN.Imaging/hyperion/02192021/b1_01042020/ome-tiff_htan/HT081B1_H5_A4_ROI_01.ome.tiff,Storage1,FALSE
+76,HT081B1,S1H5A1_S1H5A4,HT081B1-S1H5A1_S1H5A4,TIFF,,HT081B1_H5_A4_ROI_02.ome.tiff,2,,,/storage1/fs1/dinglab/Active/Primary/HTAN.Imaging/hyperion/02192021/b1_01042020/ome-tiff_htan/HT081B1_H5_A4_ROI_02.ome.tiff,Storage1,FALSE
+77,HT081B1,S1H5A1_S1H5A4,HT081B1-S1H5A1_S1H5A4,TIFF,,HT081B1_H5_A4_ROI_03.ome.tiff,3,,,/storage1/fs1/dinglab/Active/Primary/HTAN.Imaging/hyperion/02192021/b1_01042020/ome-tiff_htan/HT081B1_H5_A4_ROI_03.ome.tiff,Storage1,FALSE
+78,HT081B1,S1H5A1_S1H5A4,HT081B1-S1H5A1_S1H5A4,TIFF,,HT081B1_H5_A4_ROI_04.ome.tiff,4,,,/storage1/fs1/dinglab/Active/Primary/HTAN.Imaging/hyperion/02192021/b1_01042020/ome-tiff_htan/HT081B1_H5_A4_ROI_04.ome.tiff,Storage1,FALSE
+90,HT122P1,S1H3L1 S1H3L4,,TIFF,,HT122P1_S1H3_L1_L4_090320_ROI_002.ome.tiff,2,done second,,/storage1/fs1/dinglab/Active/Primary/HTAN.Imaging/hyperion/02192021/b3_09012020/ome-tiff_htan/HT122P1_S1H3_L1_L4_090320_ROI_002.ome.tiff,Storage1,FALSE
+91,HT122P1,S1H3L1 S1H3L4,,TIFF,,HT122P1_S1H3_L1_L4_090320_ROI_1_L1.ome.tiff,1,done second,,/storage1/fs1/dinglab/Active/Primary/HTAN.Imaging/hyperion/02192021/b3_09012020/ome-tiff_htan/HT122P1_S1H3_L1_L4_090320_ROI_1_L1.ome.tiff,Storage1,FALSE
+92,HT122P1,S1H3L1 S1H3L4,,TIFF,,HT122P1_S1H3_L1_L4_rescan_092820_ROI_L1.ome.tiff,1,done second,,/storage1/fs1/dinglab/Active/Primary/HTAN.Imaging/hyperion/02192021/b3_09012020/ome-tiff_htan/HT122P1_S1H3_L1_L4_rescan_092820_ROI_L1.ome.tiff,Storage1,FALSE
+93,HT122P1,S1H3L1 S1H3L4,,TIFF,,HT122P1_S1H3_L1_L4_rescan_092820_ROI_L4.ome.tiff,2,done second,,/storage1/fs1/dinglab/Active/Primary/HTAN.Imaging/hyperion/02192021/b3_09012020/ome-tiff_htan/HT122P1_S1H3_L1_L4_rescan_092820_ROI_L4.ome.tiff,Storage1,FALSE
+94,HT122P1,S1H4L1 S1H4L4,,TIFF,,HT122P1_S1H4_090320_ROI_001.ome.tiff,1,done second,,/storage1/fs1/dinglab/Active/Primary/HTAN.Imaging/hyperion/02192021/b3_09012020/ome-tiff_htan/HT122P1_S1H4_090320_ROI_001.ome.tiff,Storage1,FALSE
+95,HT122P1,S1H4L1 S1H4L4,,TIFF,,HT122P1_S1H4_090320_ROI_002.ome.tiff,2,done second,,/storage1/fs1/dinglab/Active/Primary/HTAN.Imaging/hyperion/02192021/b3_09012020/ome-tiff_htan/HT122P1_S1H4_090320_ROI_002.ome.tiff,Storage1,FALSE
+96,HT122P1,S1H5L1 S1H5L4,,TIFF,,HT122P1_S1H5_090320_ROI_L1.ome.tiff,1,done second,,/storage1/fs1/dinglab/Active/Primary/HTAN.Imaging/hyperion/02192021/b3_09012020/ome-tiff_htan/HT122P1_S1H5_090320_ROI_L1.ome.tiff,Storage1,FALSE
+97,HT122P1,S1H5L1 S1H5L4,,TIFF,,HT122P1_S1H5_090320_ROI_L4.ome.tiff,2,done second,,/storage1/fs1/dinglab/Active/Primary/HTAN.Imaging/hyperion/02192021/b3_09012020/ome-tiff_htan/HT122P1_S1H5_090320_ROI_L4.ome.tiff,Storage1,FALSE
+98,HT122P1,S1H9L1 S1H9L4,,TIFF,,HT122P1_S1H9_090320_ROI_L1.ome.tiff,1,done second,,/storage1/fs1/dinglab/Active/Primary/HTAN.Imaging/hyperion/02192021/b3_09012020/ome-tiff_htan/HT122P1_S1H9_090320_ROI_L1.ome.tiff,Storage1,FALSE
+99,HT122P1,S1H9L1 S1H9L4,,TIFF,,HT122P1_S1H9_090320_ROI_L4.ome.tiff,2,done second,,/storage1/fs1/dinglab/Active/Primary/HTAN.Imaging/hyperion/02192021/b3_09012020/ome-tiff_htan/HT122P1_S1H9_090320_ROI_L4.ome.tiff,Storage1,FALSE
+100,HT122P1,S1H3L1 S1H3L4,"HT122P1-S1H3L1,S1H3L4",TIFF,IMC,HTAN_HT122P1_S1H3_L1_L4_ROI_001.ome.tiff,1,done first,,/storage1/fs1/dinglab/Active/Primary/HTAN.Imaging/hyperion/02192021/b2_06252020/ome-tiff_htan/HTAN_HT122P1_S1H3_L1_L4_ROI_001.ome.tiff,Storage1,TRUE
+101,HT122P1,S1H3L1 S1H3L4,"HT122P1-S1H3L1,S1H3L4",TIFF,IMC,HTAN_HT122P1_S1H3_L1_L4_ROI_002.ome.tiff,2,done first,,/storage1/fs1/dinglab/Active/Primary/HTAN.Imaging/hyperion/02192021/b2_06252020/ome-tiff_htan/HTAN_HT122P1_S1H3_L1_L4_ROI_002.ome.tiff,Storage1,TRUE
+102,HT122P1,S1H3L1 S1H3L4,"HT122P1-S1H3L1,S1H3L4",TIFF,IMC,HTAN_HT122P1_S1H3_L1_L4_ROI_003.ome.tiff,3,done first,,/storage1/fs1/dinglab/Active/Primary/HTAN.Imaging/hyperion/02192021/b2_06252020/ome-tiff_htan/HTAN_HT122P1_S1H3_L1_L4_ROI_003.ome.tiff,Storage1,TRUE
+103,HT122P1,S1H4L1 S1H4L4,"HT122P1-S1H4L1,S1H4L4",TIFF,IMC,HTAN_HT122P1_S1H4_L1_L4_ROI_001.ome.tiff,1,done first,,/storage1/fs1/dinglab/Active/Primary/HTAN.Imaging/hyperion/02192021/b2_06252020/ome-tiff_htan/HTAN_HT122P1_S1H4_L1_L4_ROI_001.ome.tiff,Storage1,TRUE
+104,HT122P1,S1H4L1 S1H4L4,"HT122P1-S1H4L1,S1H4L4",TIFF,IMC,HTAN_HT122P1_S1H4_L1_L4_ROI_002.ome.tiff,2,done first,,/storage1/fs1/dinglab/Active/Primary/HTAN.Imaging/hyperion/02192021/b2_06252020/ome-tiff_htan/HTAN_HT122P1_S1H4_L1_L4_ROI_002.ome.tiff,Storage1,TRUE
+105,HT122P1,S1H5L1 S1H5L4,"HT122P1-S1H5L1,S1H5L4",TIFF,IMC,HTAN_HT122P1_S1H5_L1_L4_ROI_001.ome.tiff,1,done first,,/storage1/fs1/dinglab/Active/Primary/HTAN.Imaging/hyperion/02192021/b2_06252020/ome-tiff_htan/HTAN_HT122P1_S1H5_L1_L4_ROI_001.ome.tiff,Storage1,TRUE
+106,HT122P1,S1H5L1 S1H5L4,"HT122P1-S1H5L1,S1H5L4",TIFF,IMC,HTAN_HT122P1_S1H5_L1_L4_ROI_002.ome.tiff,2,done first,,/storage1/fs1/dinglab/Active/Primary/HTAN.Imaging/hyperion/02192021/b2_06252020/ome-tiff_htan/HTAN_HT122P1_S1H5_L1_L4_ROI_002.ome.tiff,Storage1,TRUE
+107,HT122P1,S1H9L1 S1H9L4,"HT122P1-S1H9L1,S1H9L4",TIFF,IMC,HTAN_HT122P1_S1H9_L1_L4_ROI_001.ome.tiff,1,done first,,/storage1/fs1/dinglab/Active/Primary/HTAN.Imaging/hyperion/02192021/b2_06252020/ome-tiff_htan/HTAN_HT122P1_S1H9_L1_L4_ROI_001.ome.tiff,Storage1,TRUE
+108,HT122P1,S1H9L1 S1H9L4,"HT122P1-S1H9L1,S1H9L4",TIFF,IMC,HTAN_HT122P1_S1H9_L1_L4_ROI_002.ome.tiff,2,done first,,/storage1/fs1/dinglab/Active/Primary/HTAN.Imaging/hyperion/02192021/b2_06252020/ome-tiff_htan/HTAN_HT122P1_S1H9_L1_L4_ROI_002.ome.tiff,Storage1,TRUE
+113,HT123P1,S1H5L1 S1H5L4,,TIFF,,HT123P1_S1H5_091120_ROI_L1.ome.tiff,1,done second,,/storage1/fs1/dinglab/Active/Primary/HTAN.Imaging/hyperion/02192021/b3_09012020/ome-tiff_htan/HT123P1_S1H5_091120_ROI_L1.ome.tiff,Storage1,FALSE
+114,HT123P1,S1H5L1 S1H5L4,,TIFF,,HT123P1_S1H5_091120_ROI_L4.ome.tiff,2,done second,,/storage1/fs1/dinglab/Active/Primary/HTAN.Imaging/hyperion/02192021/b3_09012020/ome-tiff_htan/HT123P1_S1H5_091120_ROI_L4.ome.tiff,Storage1,FALSE
+115,HT123P1,S1H1L1 S1H1L4,"HT123P1-S1H1L1,S1H1L4",TIFF,IMC,HTAN_HT123P1_S1H1_L1_L4_ROI_001.ome.tiff,1,done first,,/storage1/fs1/dinglab/Active/Primary/HTAN.Imaging/hyperion/02192021/b2_06252020/ome-tiff_htan/HTAN_HT123P1_S1H1_L1_L4_ROI_001.ome.tiff,Storage1,TRUE
+116,HT123P1,S1H1L1 S1H1L4,"HT123P1-S1H1L1,S1H1L4",TIFF,IMC,HTAN_HT123P1_S1H1_L1_L4_ROI_002.ome.tiff,2,done first,,/storage1/fs1/dinglab/Active/Primary/HTAN.Imaging/hyperion/02192021/b2_06252020/ome-tiff_htan/HTAN_HT123P1_S1H1_L1_L4_ROI_002.ome.tiff,Storage1,TRUE
+117,HT123P1,S1H3L1 S1H3L4,"HT123P1-S1H3L1,S1H3L4",TIFF,IMC,HTAN_HT123P1_S1H3_L1_L4_ROI_001.ome.tiff,1,done first,,/storage1/fs1/dinglab/Active/Primary/HTAN.Imaging/hyperion/02192021/b2_06252020/ome-tiff_htan/HTAN_HT123P1_S1H3_L1_L4_ROI_001.ome.tiff,Storage1,TRUE
+118,HT123P1,S1H3L1 S1H3L4,"HT123P1-S1H3L1,S1H3L4",TIFF,IMC,HTAN_HT123P1_S1H3_L1_L4_ROI_002.ome.tiff,2,done first,,/storage1/fs1/dinglab/Active/Primary/HTAN.Imaging/hyperion/02192021/b2_06252020/ome-tiff_htan/HTAN_HT123P1_S1H3_L1_L4_ROI_002.ome.tiff,Storage1,TRUE
+119,HT123P1,S1H5L1 S1H5L4,"HT123P1-S1H5L1,S1H5L4",TIFF,IMC,HTAN_HT123P1_S1H5_L1_L4_ROI_001.ome.tiff,1,done first,,/storage1/fs1/dinglab/Active/Primary/HTAN.Imaging/hyperion/02192021/b2_06252020/ome-tiff_htan/HTAN_HT123P1_S1H5_L1_L4_ROI_001.ome.tiff,Storage1,TRUE
+120,HT123P1,S1H5L1 S1H5L4,"HT123P1-S1H5L1,S1H5L4",TIFF,IMC,HTAN_HT123P1_S1H5_L1_L4_ROI_002.ome.tiff,2,done first,,/storage1/fs1/dinglab/Active/Primary/HTAN.Imaging/hyperion/02192021/b2_06252020/ome-tiff_htan/HTAN_HT123P1_S1H5_L1_L4_ROI_002.ome.tiff,Storage1,TRUE
+124,HT124P1,S1H1L1 S1H1L4,"HT124P1-S1H1L1,S1H1L4",TIFF,IMC,HTAN_HT124P1_S1H1_L1_L4_ROI_001.ome.tiff,1,,,/storage1/fs1/dinglab/Active/Primary/HTAN.Imaging/hyperion/02192021/b2_06252020/ome-tiff_htan/HTAN_HT124P1_S1H1_L1_L4_ROI_001.ome.tiff,Storage1,TRUE
+125,HT124P1,S1H1L1 S1H1L4,"HT124P1-S1H1L1,S1H1L4",TIFF,IMC,HTAN_HT124P1_S1H1_L1_L4_ROI_002.ome.tiff,2,,,/storage1/fs1/dinglab/Active/Primary/HTAN.Imaging/hyperion/02192021/b2_06252020/ome-tiff_htan/HTAN_HT124P1_S1H1_L1_L4_ROI_002.ome.tiff,Storage1,TRUE
+126,HT124P1,S1H4L1 S1H4L4,"HT124P1-S1H4L1,S1H4L4",TIFF,IMC,HTAN_HT124P1_S1H4_L1_L4_ROI_002.ome.tiff,2,,,/storage1/fs1/dinglab/Active/Primary/HTAN.Imaging/hyperion/02192021/b2_06252020/ome-tiff_htan/HTAN_HT124P1_S1H4_L1_L4_ROI_002.ome.tiff,Storage1,TRUE
+127,HT124P1,S1H4L1 S1H4L4,"HT124P1-S1H4L1,S1H4L4",TIFF,IMC,HTAN_HT124P1_S1H4_L1_L4_ROI_003.ome.tiff,3,,,/storage1/fs1/dinglab/Active/Primary/HTAN.Imaging/hyperion/02192021/b2_06252020/ome-tiff_htan/HTAN_HT124P1_S1H4_L1_L4_ROI_003.ome.tiff,Storage1,TRUE
+128,HT124P1,S1H4L1 S1H4L4,"HT124P1-S1H4L1,S1H4L4",TIFF,IMC,HTAN_HT124P1_S1H4_L1_L4_ROI_005.ome.tiff,5,,,/storage1/fs1/dinglab/Active/Primary/HTAN.Imaging/hyperion/02192021/b2_06252020/ome-tiff_htan/HTAN_HT124P1_S1H4_L1_L4_ROI_005.ome.tiff,Storage1,TRUE
+129,HT124P1,S1H2L1 S1H2L4,"HT124P1-S1H2L1,S1H2L4",TIFF,IMC,HTAN_HT124P1S1H2_L1_L4_ROI_001.ome.tiff,1,,,/storage1/fs1/dinglab/Active/Primary/HTAN.Imaging/hyperion/02192021/b2_06252020/ome-tiff_htan/HTAN_HT124P1S1H2_L1_L4_ROI_001.ome.tiff,Storage1,TRUE
+130,HT124P1,S1H2L1 S1H2L4,"HT124P1-S1H2L1,S1H2L4",TIFF,IMC,HTAN_HT124P1S1H2_L1_L4_ROI_002.ome.tiff,2,,,/storage1/fs1/dinglab/Active/Primary/HTAN.Imaging/hyperion/02192021/b2_06252020/ome-tiff_htan/HTAN_HT124P1S1H2_L1_L4_ROI_002.ome.tiff,Storage1,TRUE
+145,HT166P1,S1H2L1 H1H2L4,"HT166P1-S1H2L1,H1H2L4",TIFF,IMC,HTAN_HT166P1_S1H2_L1_L4_ROI_001.ome.tiff,1,,,/storage1/fs1/dinglab/Active/Primary/HTAN.Imaging/hyperion/02192021/b2_06252020/ome-tiff_htan/HTAN_HT166P1_S1H2_L1_L4_ROI_001.ome.tiff,Storage1,TRUE
+146,HT166P1,S1H2L1 H1H2L4,"HT166P1-S1H2L1,H1H2L4",TIFF,IMC,HTAN_HT166P1_S1H2_L1_L4_ROI_002.ome.tiff,2,,,/storage1/fs1/dinglab/Active/Primary/HTAN.Imaging/hyperion/02192021/b2_06252020/ome-tiff_htan/HTAN_HT166P1_S1H2_L1_L4_ROI_002.ome.tiff,Storage1,TRUE
+147,HT166P1,S1H5L1 S1H5L4,"HT166P1-S1H5L1,S1H5L4",TIFF,IMC,HTAN_HT166P1_S1H5_L4_ROI_001.ome.tiff,1,,,/storage1/fs1/dinglab/Active/Primary/HTAN.Imaging/hyperion/02192021/b2_06252020/ome-tiff_htan/HTAN_HT166P1_S1H5_L4_ROI_001.ome.tiff,Storage1,TRUE
+148,HT166P1,S1H5L1 S1H5L4,"HT166P1-S1H5L1,S1H5L4",TIFF,IMC,HTAN_HT166P1_S1H5_L4_ROI_002.ome.tiff,2,,,/storage1/fs1/dinglab/Active/Primary/HTAN.Imaging/hyperion/02192021/b2_06252020/ome-tiff_htan/HTAN_HT166P1_S1H5_L4_ROI_002.ome.tiff,Storage1,TRUE
+149,HT166P1,S1H5L1 S1H5L4,"HT166P1-S1H5L1,S1H5L4",TIFF,IMC,HTAN_HT166P1_S1H5_L4_ROI_003.ome.tiff,3,,,/storage1/fs1/dinglab/Active/Primary/HTAN.Imaging/hyperion/02192021/b2_06252020/ome-tiff_htan/HTAN_HT166P1_S1H5_L4_ROI_003.ome.tiff,Storage1,TRUE
+150,HT166P1,S1H6L1 S1H6L4,"HT166P1-S1H6L1,S1H6L4",TIFF,IMC,HTAN_HT166P1_S1H6_L1_L4_ROI_001.ome.tiff,1,,,/storage1/fs1/dinglab/Active/Primary/HTAN.Imaging/hyperion/02192021/b2_06252020/ome-tiff_htan/HTAN_HT166P1_S1H6_L1_L4_ROI_001.ome.tiff,Storage1,TRUE
+151,HT166P1,S1H6L1 S1H6L4,"HT166P1-S1H6L1,S1H6L4",TIFF,IMC,HTAN_HT166P1_S1H6_L1_L4_ROI_002.ome.tiff,2,,,/storage1/fs1/dinglab/Active/Primary/HTAN.Imaging/hyperion/02192021/b2_06252020/ome-tiff_htan/HTAN_HT166P1_S1H6_L1_L4_ROI_002.ome.tiff,Storage1,TRUE
+155,HT168P1,S1H2L1 S1H2L4,"HT168P1-S1H2L1,S1H2L4",TIFF,IMC,HTAN_HT168P1_S1H2_L1_L4_ROI_001.ome.tiff,1,done first,,/storage1/fs1/dinglab/Active/Primary/HTAN.Imaging/hyperion/02192021/b2_06252020/ome-tiff_htan/HTAN_HT168P1_S1H2_L1_L4_ROI_001.ome.tiff,Storage1,TRUE
+156,HT168P1,S1H2L1 S1H2L4,"HT168P1-S1H2L1,S1H2L4",TIFF,IMC,HTAN_HT168P1_S1H2_L1_L4_ROI_002.ome.tiff,2,done first,,/storage1/fs1/dinglab/Active/Primary/HTAN.Imaging/hyperion/02192021/b2_06252020/ome-tiff_htan/HTAN_HT168P1_S1H2_L1_L4_ROI_002.ome.tiff,Storage1,TRUE
+157,HT168P1,S1H4L1 S1H4L4,"HT168P1-S1H4L1,S1H4L4",TIFF,IMC,HTAN_HT168P1_S1H4_L1_L4_ROI_001.ome.tiff,1,done first,,/storage1/fs1/dinglab/Active/Primary/HTAN.Imaging/hyperion/02192021/b2_06252020/ome-tiff_htan/HTAN_HT168P1_S1H4_L1_L4_ROI_001.ome.tiff,Storage1,TRUE
+158,HT168P1,S1H4L1 S1H4L4,"HT168P1-S1H4L1,S1H4L4",TIFF,IMC,HTAN_HT168P1_S1H4_L1_L4_ROI_002.ome.tiff,2,done first,,/storage1/fs1/dinglab/Active/Primary/HTAN.Imaging/hyperion/02192021/b2_06252020/ome-tiff_htan/HTAN_HT168P1_S1H4_L1_L4_ROI_002.ome.tiff,Storage1,TRUE
+159,HT168P1,S1H4L1 S1H4L4,"HT168P1-S1H4L1,S1H4L4",TIFF,IMC,HTAN_HT168P1_S1H4_L1_L4_ROI_003.ome.tiff,3,done first,,/storage1/fs1/dinglab/Active/Primary/HTAN.Imaging/hyperion/02192021/b2_06252020/ome-tiff_htan/HTAN_HT168P1_S1H4_L1_L4_ROI_003.ome.tiff,Storage1,TRUE
+160,HT168P1,S1H2L1 S1H2L4,,TIFF,,HT168P1_S1H2_ROI_L1.ome.tiff,1,done second,,,Storage1,FALSE
+161,HT168P1,S1H2L1 S1H2L4,,TIFF,,HT168P1_S1H2_ROI_L4.ome.tiff,2,done second,,,Storage1,FALSE
+162,HT168P1,S1H3L1 S1H3L4,,TIFF,,HT168P1_S1H3_091420_ROI_L1_full.ome.tiff,?,done second,,,Storage1,FALSE
+163,HT168P1,S1H3L1 S1H3L4,,TIFF,,HT168P1_S1H3_091420_ROI_L1.ome.tiff,?,done second,,,Storage1,FALSE
+164,HT168P1,S1H3L1 S1H3L4,,TIFF,,HT168P1_S1H3_091420_ROI_L4.ome.tiff,3,done second,,,Storage1,FALSE
+165,HT168P1,S1H3L1 S1H3L4,,TIFF,,HT168P1_S1H3_L1_L4_ROI_001.ome.tiff,1,done second,,,Storage1,FALSE
+166,HT168P1,S1H3L1 S1H3L4,,TIFF,,HT168P1_S1H3_L1_L4_ROI_002.ome.tiff,2,done second,,,Storage1,FALSE
+167,HT168P1,S1H3L1 S1H3L4,,TIFF,,HT168P1_S1H3_L1_L4_ROI_003.ome.tiff,3,done second,,,Storage1,FALSE
+168,HT168P1,S1H4L1 S1H4L4,,TIFF,,HT168P1_S1H4_091420_ROI_001.ome.tiff,1,done second,,,Storage1,FALSE
+169,HT168P1,S1H4L1 S1H4L4,,TIFF,,HT168P1_S1H4_091420_ROI_002.ome.tiff,2,done second,,,Storage1,FALSE
+160,HT168P1,S1H3L1 S1H3L4,"HT168P1-S1H3L1,S1H3L4",TIFF,IMC,HT168P1_S1H3_L1_L4_ROI_001.ome.tiff,1,added 2/23/2021,,/storage1/fs1/dinglab/Active/Primary/HTAN.Imaging/hyperion/02192021/b2_06252020/ome-tiff_htan/HT168P1_S1H3_L1_L4_ROI_001.ome.tiff,Storage1,TRUE
+161,HT168P1,S1H3L1 S1H3L4,"HT168P1-S1H3L1,S1H3L4",TIFF,IMC,HT168P1_S1H3_L1_L4_ROI_002.ome.tiff,2,added 2/23/2021,,/storage1/fs1/dinglab/Active/Primary/HTAN.Imaging/hyperion/02192021/b2_06252020/ome-tiff_htan/HT168P1_S1H3_L1_L4_ROI_002.ome.tiff,Storage1,TRUE
+162,HT168P1,S1H3L1 S1H3L4,"HT168P1-S1H3L1,S1H3L4",TIFF,IMC,HT168P1_S1H3_L1_L4_ROI_003.ome.tiff,3,added 2/23/2021,,/storage1/fs1/dinglab/Active/Primary/HTAN.Imaging/hyperion/02192021/b2_06252020/ome-tiff_htan/HT168P1_S1H3_L1_L4_ROI_003.ome.tiff,Storage1,TRUE
