@@ -1,4 +1,5 @@
 data/
+uploads/
 results/
 *.pyc
 notebooks/.ipynb_checkpoints
